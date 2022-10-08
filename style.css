@@ -1,0 +1,11 @@
+body
+{
+background-image: linear-gradient(to right top, #3633f1, #8d1791, #7105ff, #00ff9d, #ff0651);
+}
+ 
+ .heading
+  { width: 80%;
+     font-size: 22px; }
+  #camera
+   { border: 2px dashed black;
+     width: 350px; height: 300px; }
